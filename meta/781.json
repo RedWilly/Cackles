@@ -1,0 +1,37 @@
+{
+  "name": "Cackles #781",
+  "description": "Cackles are a NFT collection on the SmartBCH blockchain consisting of 8888 cocks each having it's own unique DNA sequence.",
+  "image": "https://raw.githubusercontent.com/RedWilly/Cackles/main/image/781.png",
+  "dna": "cb7e0dc676666840e928f3b7188e98ce5e5b377d",
+  "edition": 781,
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Granny Smith Apple L"
+    },
+    {
+      "trait_type": "BODY",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "COMB AND WATTLES",
+      "value": "Alloy Orange"
+    },
+    {
+      "trait_type": "CAP",
+      "value": "None"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Satisfied"
+    },
+    {
+      "trait_type": "BEAK",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Pink Shirt"
+    }
+  ]
+}
