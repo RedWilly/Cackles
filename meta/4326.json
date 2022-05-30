@@ -1,7 +1,7 @@
 {
   "name": "Cackles #4326",
   "description": "Cackles are a NFT collection on the SmartBCH blockchain consisting of 8888 cocks each having it's own unique DNA sequence.",
-  "image": "https://raw.githubusercontent.com/RedWilly/Cackles/main/image/4326.png",
+  "image": "https://raw.githubusercontent.com/RedWilly/Cackles/main/images/4326.png",
   "dna": "86d65d2d2a479883f174d70b09d2b17778f58d64",
   "edition": 4326,
   "attributes": [
